@@ -48,3 +48,7 @@ Thumbs.db
 
 # Fix script (not needed in repo)
 fix_api_key.py
+generate_notebook.py
+run_pipeline.py
+extract_cells.py
+pipeline_results.json
